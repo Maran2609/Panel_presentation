@@ -216,6 +216,7 @@ public class TestRunner extends reusabledriver {
 		{
 			Assert.assertTrue(true);
 		}
+		System.out.println("Counted");
 		logger.loginfo(log, "Counted Successfully");
 		}catch(Exception e)
 		{
@@ -240,6 +241,7 @@ public class TestRunner extends reusabledriver {
 		else {
 		Assert.assertTrue(false);
 		}
+		System.out.println("Map Verifeid Successfully");
 		logger.loginfo(log, "Map Verified Successfully");
 		}
 		catch(Exception e)
