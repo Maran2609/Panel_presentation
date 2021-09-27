@@ -240,7 +240,7 @@ public class TestRunner extends reusabledriver {
 		else {
 		Assert.assertTrue(false);
 		}
-		logger.loginfo(log, "Map verified Successfully");
+		logger.loginfo(log, "Map Verified Successfully");
 		}
 		catch(Exception e)
 		{
