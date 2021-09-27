@@ -1,0 +1,54 @@
+09:47:58.164 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+09:48:07.470 [main] INFO  com.urban.runner.TestRunner - Login
+09:48:12.211 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+09:48:26.071 [main] INFO  com.urban.runner.TestRunner - Compared Successfully
+09:48:33.815 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+09:48:52.755 [main] INFO  com.urban.runner.TestRunner - Successfully Added the product
+09:49:03.576 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+09:49:20.457 [main] INFO  com.urban.runner.TestRunner - Successfully Added the product
+09:49:33.247 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+09:49:41.651 [main] INFO  com.urban.runner.TestRunner - Successfully Searched the Product
+09:49:49.760 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+09:49:59.107 [main] INFO  com.urban.runner.TestRunner - Successfully Searched the Product
+09:50:08.872 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+09:50:20.146 [main] INFO  com.urban.runner.TestRunner - Successfully Searched the Product
+09:50:27.103 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+09:50:37.483 [main] INFO  com.urban.runner.TestRunner - Counted Successfully
+09:50:46.025 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+09:51:38.736 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+09:51:57.463 [main] INFO  com.urban.runner.TestRunner - Successfully Returned
+09:52:03.351 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+09:52:16.348 [main] INFO  com.urban.runner.TestRunner - Price?4,499
+09:52:20.380 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+09:52:48.922 [main] INFO  com.urban.runner.TestRunner - Map verified Successfully
+09:52:53.914 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+09:53:09.097 [main] INFO  com.urban.runner.TestRunner - Successfully Landed on Playstore
+10:04:44.390 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+10:04:53.183 [main] INFO  com.urban.runner.TestRunner - Login
+10:05:13.118 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+10:06:52.061 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+10:07:02.996 [main] INFO  com.urban.runner.TestRunner - Login
+10:07:08.779 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+10:07:24.669 [main] INFO  com.urban.runner.TestRunner - Compared Successfully
+10:07:34.475 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+10:07:59.683 [main] INFO  com.urban.runner.TestRunner - Successfully Added the product
+10:08:04.836 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+10:08:29.889 [main] INFO  com.urban.runner.TestRunner - Successfully Added the product
+10:08:39.294 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+10:08:54.826 [main] INFO  com.urban.runner.TestRunner - Successfully Searched the Product
+10:09:00.881 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+10:09:13.642 [main] INFO  com.urban.runner.TestRunner - Successfully Searched the Product
+10:09:19.625 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+10:09:32.813 [main] INFO  com.urban.runner.TestRunner - Successfully Searched the Product
+10:09:39.143 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+10:09:53.166 [main] INFO  com.urban.runner.TestRunner - Counted Successfully
+10:09:58.534 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+10:10:17.234 [main] INFO  com.urban.runner.TestRunner - Added to Wishlisted
+10:10:24.049 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+10:10:44.831 [main] INFO  com.urban.runner.TestRunner - Successfully Returned
+10:10:50.653 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+10:11:07.060 [main] INFO  com.urban.runner.TestRunner - Price?4,499
+10:11:15.725 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+10:11:34.825 [main] INFO  com.urban.runner.TestRunner - Not Verified
+10:11:39.177 [main] INFO  com.urban.runner.TestRunner - URL Loaded
+10:12:07.877 [main] INFO  com.urban.runner.TestRunner - Successfully Landed on Playstore

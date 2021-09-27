@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-27T10:06:43 IST" name="Suite" finished-at="2021-09-27T10:12:08 IST" duration-ms="324205">
+    <groups>
+    </groups>
+    <test started-at="2021-09-27T10:06:43 IST" name="Test" finished-at="2021-09-27T10:12:08 IST" duration-ms="324205">
+      <class name="com.urban.runner.TestRunner">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:06:43 IST" name="openbrowser" finished-at="2021-09-27T10:06:52 IST" duration-ms="8154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="Homepage()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:06:52 IST" name="Homepage" finished-at="2021-09-27T10:07:02 IST" duration-ms="10932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Homepage -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:07:03 IST" name="CloseBrowser" finished-at="2021-09-27T10:07:03 IST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:07:03 IST" name="openbrowser" finished-at="2021-09-27T10:07:08 IST" duration-ms="5572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="Compare_products()[pri:1, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:07:08 IST" name="Compare_products" finished-at="2021-09-27T10:07:24 IST" duration-ms="15890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Compare_products -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:07:24 IST" name="CloseBrowser" finished-at="2021-09-27T10:07:24 IST" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:07:25 IST" name="openbrowser" finished-at="2021-09-27T10:07:34 IST" duration-ms="9017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="Add_cart(java.lang.String,java.lang.String)[pri:2, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:07:34 IST" name="Add_cart" data-provider="data" finished-at="2021-09-27T10:07:59 IST" duration-ms="25208" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[table]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Osiris Console Table]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_cart -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:07:59 IST" name="CloseBrowser" finished-at="2021-09-27T10:07:59 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:07:59 IST" name="openbrowser" finished-at="2021-09-27T10:08:04 IST" duration-ms="4965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="Add_cart(java.lang.String,java.lang.String)[pri:2, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:08:04 IST" name="Add_cart" data-provider="data" finished-at="2021-09-27T10:08:29 IST" duration-ms="25053" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chair]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mika Study Chair]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_cart -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:08:29 IST" name="CloseBrowser" finished-at="2021-09-27T10:08:30 IST" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:08:30 IST" name="openbrowser" finished-at="2021-09-27T10:08:39 IST" duration-ms="9161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="search_and_verify(java.lang.String)[pri:3, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:08:39 IST" name="search_and_verify" data-provider="getexceldata" finished-at="2021-09-27T10:08:54 IST" duration-ms="15532" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_and_verify -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:08:54 IST" name="CloseBrowser" finished-at="2021-09-27T10:08:54 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:08:54 IST" name="openbrowser" finished-at="2021-09-27T10:09:00 IST" duration-ms="5885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="search_and_verify(java.lang.String)[pri:3, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:09:00 IST" name="search_and_verify" data-provider="getexceldata" finished-at="2021-09-27T10:09:13 IST" duration-ms="12762" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[table]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_and_verify -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:09:13 IST" name="CloseBrowser" finished-at="2021-09-27T10:09:13 IST" duration-ms="213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:09:13 IST" name="openbrowser" finished-at="2021-09-27T10:09:19 IST" duration-ms="5768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="search_and_verify(java.lang.String)[pri:3, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:09:19 IST" name="search_and_verify" data-provider="getexceldata" finished-at="2021-09-27T10:09:32 IST" duration-ms="13188" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chair]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_and_verify -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:09:32 IST" name="CloseBrowser" finished-at="2021-09-27T10:09:33 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:09:33 IST" name="openbrowser" finished-at="2021-09-27T10:09:39 IST" duration-ms="6133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="Counting()[pri:4, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:09:39 IST" name="Counting" finished-at="2021-09-27T10:09:53 IST" duration-ms="14024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Counting -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:09:53 IST" name="CloseBrowser" finished-at="2021-09-27T10:09:53 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:09:53 IST" name="openbrowser" finished-at="2021-09-27T10:09:58 IST" duration-ms="5155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="Wishlist_product()[pri:5, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:09:58 IST" name="Wishlist_product" finished-at="2021-09-27T10:10:17 IST" duration-ms="18701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Wishlist_product -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:10:17 IST" name="CloseBrowser" finished-at="2021-09-27T10:10:17 IST" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:10:17 IST" name="openbrowser" finished-at="2021-09-27T10:10:24 IST" duration-ms="6482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="ReturningHome()[pri:6, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:10:24 IST" name="ReturningHome" finished-at="2021-09-27T10:10:44 IST" duration-ms="20782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReturningHome -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:10:44 IST" name="CloseBrowser" finished-at="2021-09-27T10:10:45 IST" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:10:45 IST" name="openbrowser" finished-at="2021-09-27T10:10:50 IST" duration-ms="5610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="Printprice()[pri:7, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:10:50 IST" name="Printprice" finished-at="2021-09-27T10:11:07 IST" duration-ms="16407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Printprice -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:11:07 IST" name="CloseBrowser" finished-at="2021-09-27T10:11:07 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:11:07 IST" name="openbrowser" finished-at="2021-09-27T10:11:15 IST" duration-ms="8466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="Mapverification()[pri:8, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:11:15 IST" name="Mapverification" finished-at="2021-09-27T10:11:34 IST" duration-ms="19099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mapverification -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:11:34 IST" name="CloseBrowser" finished-at="2021-09-27T10:11:35 IST" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:11:35 IST" name="openbrowser" finished-at="2021-09-27T10:11:39 IST" duration-ms="4138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="playstoreVerification()[pri:9, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:11:39 IST" name="playstoreVerification" finished-at="2021-09-27T10:12:07 IST" duration-ms="28699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playstoreVerification -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.urban.runner.TestRunner@45efc20d]" started-at="2021-09-27T10:12:07 IST" name="CloseBrowser" finished-at="2021-09-27T10:12:08 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.urban.runner.TestRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
